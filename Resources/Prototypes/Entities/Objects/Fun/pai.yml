@@ -78,7 +78,7 @@
   description: Your Syndicate pal who's fun to be with!
   components:
   - type: Sprite
-    sprite: Objects/Fun/pai.rsi
+    sprite: Objects/Fun/pai.rsi 
     layers:
     - state: pai-base
     - state: syndicate-pai-off-overlay
