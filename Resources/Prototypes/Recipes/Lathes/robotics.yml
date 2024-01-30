@@ -346,6 +346,18 @@
     Gold: 200
 
 - type: latheRecipe
+  id: PAITD
+  result: PAITD
+  category: Robotics
+  completetime: 3
+  materials:
+    Steel: 700
+    Glass: 300
+    Plastic: 200
+    Gold: 100
+    Plasma: 300
+
+- type: latheRecipe
   id: PositronicBrain
   result: PositronicBrain
   category: Robotics

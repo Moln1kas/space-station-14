@@ -126,14 +126,14 @@
 
 - type: entity
   parent: BaseItem
-  id: PAII
+  id: PAITD
   name: personal AI transferic device
   description: A machine able to facilitate communication between a pAI and cyborg technologies, allowing pAI to provide value to the station.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Robotics/paii.rsi
+    sprite: Objects/Specific/Robotics/paitd.rsi
     layers:
-    - state: paii
+    - state: paitd
       map: ["Base"]
   - type: Input
     context: human
@@ -150,7 +150,7 @@
     - Binary
     - Common
   - type: NameIdentifier
-    group: PAII
+    group: PAITD
   - type: DoAfter
   - type: Actions
   - type: TypingIndicator
@@ -160,7 +160,7 @@
   - type: ItemSlots
     slots:
       brain_slot:
-        name: positronic-brain-slot-component-slot-name-PAI
+        name: "personal ai device"
         whitelist:
           components:
           - PAI
@@ -173,8 +173,8 @@
       - Cyborgs
 
 - type: entity
-  parent: PAII
-  id: PAIIFilled
+  parent: PAITD
+  id: PAITDFilled
   suffix: Filled
   components:
   - type: ItemSlots
