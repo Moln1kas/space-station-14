@@ -1,0 +1,16 @@
+sandbox-window-title = Sandbox Panel
+sandbox-window-respawn-button = Респаун (только попробуй)
+sandbox-window-spawn-entities-button = Создать сущность
+sandbox-window-spawn-tiles-button = Создать тайл
+sandbox-window-spawn-decals-button = Создать декаль
+sandbox-window-grant-full-access-button = Получить полный доступ
+sandbox-window-ghost-button = Призрак
+sandbox-window-toggle-lights-button = Переключить свет
+sandbox-window-toggle-fov-button = Переключить FOV
+sandbox-window-toggle-shadows-button = Переключить тени
+sandbox-window-toggle-subfloor-button = Переключить видимость пола
+sandbox-window-toggle-suicide-button = Самоубийсво
+sandbox-window-show-spawns-button = Показать спавнеры
+sandbox-window-show-bb-button = Показать BB
+sandbox-window-show-npc-button = Показать NPC
+sandbox-window-link-machines-button = Соединённые машины
