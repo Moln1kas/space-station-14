@@ -1,25 +1,25 @@
 ### UI
 
-chat-manager-max-message-length = Your message exceeds {$maxMessageLength} character limit
-chat-manager-ooc-chat-enabled-message = OOC chat has been enabled.
-chat-manager-ooc-chat-disabled-message = OOC chat has been disabled.
-chat-manager-looc-chat-enabled-message = LOOC chat has been enabled.
-chat-manager-looc-chat-disabled-message = LOOC chat has been disabled.
-chat-manager-dead-looc-chat-enabled-message = Dead players can now use LOOC.
-chat-manager-dead-looc-chat-disabled-message = Dead players can no longer use LOOC.
-chat-manager-crit-looc-chat-enabled-message = Crit players can now use LOOC.
-chat-manager-crit-looc-chat-disabled-message = Crit players can no longer use LOOC.
-chat-manager-admin-ooc-chat-enabled-message = Admin OOC chat has been enabled.
-chat-manager-admin-ooc-chat-disabled-message = Admin OOC chat has been disabled.
+chat-manager-max-message-length = Ваше сообщение привышает {$maxMessageLength} лимит символов.
+chat-manager-ooc-chat-enabled-message = OOC чат был включен.
+chat-manager-ooc-chat-disabled-message = OOC чат был выключен.
+chat-manager-looc-chat-enabled-message = LOOC чат был включен.
+chat-manager-looc-chat-disabled-message = LOOC чат был выключен.
+chat-manager-dead-looc-chat-enabled-message = Мертвые игроки теперь могут использовать LOOC.
+chat-manager-dead-looc-chat-disabled-message = Мертвые игроки больше не могут использовать LOOC.
+chat-manager-crit-looc-chat-enabled-message = Игроки в критическом состоянии теперь могут использовать LOOC.
+chat-manager-crit-looc-chat-disabled-message = Игроки в критическом состоянии больше не могут использовать LOOC.
+chat-manager-admin-ooc-chat-enabled-message = Aдмин OOC чат был включен.
+chat-manager-admin-ooc-chat-disabled-message = Админ OOC чат был выключен.
 
-chat-manager-max-message-length-exceeded-message = Your message exceeded {$limit} character limit
-chat-manager-no-headset-on-message = You don't have a headset on!
-chat-manager-no-radio-key = No radio key specified!
-chat-manager-no-such-channel = There is no channel with key '{$key}'!
-chat-manager-whisper-headset-on-message = You can't whisper on the radio!
+chat-manager-max-message-length-exceeded-message = Ваше сообщение превысило {$limit} лимит символов.
+chat-manager-no-headset-on-message = На вас нету гарнитуры!d!
+chat-manager-no-such-channel = Канал радио не был выбран!
+chat-manager-no-radio-key = Нет канала с ключом '{$key}'!
+chat-manager-whisper-headset-on-message = Вы не можете шептаться по радио!
 
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
-chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} Announcement:[/font][font size=12]
+chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} Объявление:[/font][font size=12]
                                                 {$message}[/bold][/font]
 chat-manager-entity-say-wrap-message = [BubbleHeader][bold]{$entityName}[/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent]{$message}[/BubbleContent]"[/font]
 chat-manager-entity-say-bold-wrap-message = [BubbleHeader][bold]{$entityName}[/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent][bold]{$message}[/bold][/BubbleContent]"[/font]
@@ -44,8 +44,8 @@ chat-manager-send-admin-announcement-wrap-message = [bold]{$adminChannelName}: {
 
 chat-manager-send-hook-ooc-wrap-message = OOC: [bold](D){$senderName}:[/bold] {$message}
 
-chat-manager-dead-channel-name = DEAD
-chat-manager-admin-channel-name = ADMIN
+chat-manager-dead-channel-name = Мёртвые:
+chat-manager-admin-channel-name = ADMIN:
 
 chat-manager-rate-limited = You are sending messages too quickly!
 chat-manager-rate-limit-admin-announcement = Player { $player } breached chat rate limits. Watch them if this is a regular occurence.
@@ -58,62 +58,62 @@ chat-speech-verb-suffix-question = ?
 chat-speech-verb-suffix-stutter = -
 chat-speech-verb-suffix-mumble = ..
 
-chat-speech-verb-default = says
-chat-speech-verb-exclamation = exclaims
-chat-speech-verb-exclamation-strong = yells
-chat-speech-verb-question = asks
-chat-speech-verb-stutter = stutters
-chat-speech-verb-mumble = mumbles
+chat-speech-verb-default = говорит
+chat-speech-verb-exclamation = восклицает
+chat-speech-verb-exclamation-strong = кричит
+chat-speech-verb-question = спрашивает
+chat-speech-verb-stutter = заикается
+chat-speech-verb-mumble = бормочет
 
-chat-speech-verb-insect-1 = chitters
-chat-speech-verb-insect-2 = chirps
-chat-speech-verb-insect-3 = clicks
+chat-speech-verb-insect-1 = щепчет
+chat-speech-verb-insect-2 = щепчать
+chat-speech-verb-insect-3 = щёлкает
 
-chat-speech-verb-winged-1 = flutters
-chat-speech-verb-winged-2 = flaps
-chat-speech-verb-winged-3 = buzzes
+chat-speech-verb-winged-1 = трепещет
+chat-speech-verb-winged-2 = закрылки
+chat-speech-verb-winged-3 = жужжит
 
-chat-speech-verb-slime-1 = sloshes
-chat-speech-verb-slime-2 = burbles
-chat-speech-verb-slime-3 = oozes
+chat-speech-verb-slime-1 = выплескивается
+chat-speech-verb-slime-2 = бормочет
+chat-speech-verb-slime-3 = сочится
 
-chat-speech-verb-plant-1 = rustles
-chat-speech-verb-plant-2 = sways
-chat-speech-verb-plant-3 = creaks
+chat-speech-verb-plant-1 = шорохи
+chat-speech-verb-plant-2 = покачивается
+chat-speech-verb-plant-3 = скрипит
 
-chat-speech-verb-robotic-1 = states
-chat-speech-verb-robotic-2 = beeps
+chat-speech-verb-robotic-1 = состояние
+chat-speech-verb-robotic-2 = звуковые сигналы
 
-chat-speech-verb-reptilian-1 = hisses
-chat-speech-verb-reptilian-2 = snorts
-chat-speech-verb-reptilian-3 = huffs
+chat-speech-verb-reptilian-1 = шипит
+chat-speech-verb-reptilian-2 = фыркает
+chat-speech-verb-reptilian-3 = фыркает
 
-chat-speech-verb-skeleton-1 = rattles
-chat-speech-verb-skeleton-2 = clacks
-chat-speech-verb-skeleton-3 = gnashes
+chat-speech-verb-skeleton-1 = гремит
+chat-speech-verb-skeleton-2 = щелкает
+chat-speech-verb-skeleton-3 = скрежещет
 
-chat-speech-verb-canine-1 = barks
-chat-speech-verb-canine-2 = woofs
-chat-speech-verb-canine-3 = howls
+chat-speech-verb-canine-1 = лает
+chat-speech-verb-canine-2 = воет
+chat-speech-verb-canine-3 = вопит
 
-chat-speech-verb-small-mob-1 = squeaks
+chat-speech-verb-small-mob-1 = скрипит
 chat-speech-verb-small-mob-2 = pieps
 
-chat-speech-verb-large-mob-1 = roars
-chat-speech-verb-large-mob-2 = growls
+chat-speech-verb-large-mob-1 = ревет
+chat-speech-verb-large-mob-2 = рычит
 
-chat-speech-verb-monkey-1 = chimpers
-chat-speech-verb-monkey-2 = screeches
+chat-speech-verb-monkey-1 = говорит
+chat-speech-verb-monkey-2 = визжит
 
-chat-speech-verb-cluwne-1 = giggles
-chat-speech-verb-cluwne-2 = guffaws
-chat-speech-verb-cluwne-3 = laughs
+chat-speech-verb-cluwne-1 = хихикает
+chat-speech-verb-cluwne-2 = хохочет
+chat-speech-verb-cluwne-3 = смеется
 
-chat-speech-verb-ghost-1 = complains
-chat-speech-verb-ghost-2 = breathes
-chat-speech-verb-ghost-3 = hums
-chat-speech-verb-ghost-4 = mutters
+chat-speech-verb-ghost-1 = жалуется
+chat-speech-verb-ghost-2 = дышит
+chat-speech-verb-ghost-3 = жужжит
+chat-speech-verb-ghost-4 = бормочет
 
-chat-speech-verb-electricity-1 = crackles
-chat-speech-verb-electricity-2 = buzzes
-chat-speech-verb-electricity-3 = screeches
+chat-speech-verb-electricity-1 = потрескивает
+chat-speech-verb-electricity-2 = жужжит
+chat-speech-verb-electricity-3 = визжит
