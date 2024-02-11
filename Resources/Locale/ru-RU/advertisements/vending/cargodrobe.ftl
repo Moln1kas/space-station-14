@@ -1,2 +1,2 @@
-advertisement-cargodrobe-1 = Upgraded Passenger Style! Pick yours today!
-advertisement-cargodrobe-2 = These shorts are comfy and easy to wear, get yours now!
+advertisement-cargodrobe-1 = Большой выбор одежды! Подбери свой стиль!
+advertisement-cargodrobe-2 = Этот костюм хорошо смотрится на тебе!

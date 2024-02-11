@@ -1,36 +1,36 @@
 # Glass
-materials-glass = glass
-materials-reinforced-glass = reinforced glass
-materials-plasma-glass = plasma glass
-materials-reinforced-plasma-glass = reinforced plasma glass
+materials-glass = стекло
+materials-reinforced-glass = бронестекло
+materials-plasma-glass = стекло из плазмы
+materials-reinforced-plasma-glass = бронестекло из плазмы
 
 # Metals
-materials-steel = steel
-materials-gold = gold
-materials-silver = silver
-materials-plasteel = plasteel
+materials-steel = сталь
+materials-gold = золото
+materials-silver = серебро
+materials-plasteel = пласталь
 
 # Other
-materials-biomass = biomass
-materials-cardboard = cardboard
-materials-cloth = cloth
-materials-durathread = durathread
-materials-plasma = plasma
-materials-plastic = plastic
-materials-wood = wood
-materials-paper = paper
-materials-uranium = uranium
-materials-bananium = bananium
-materials-meat = meat
-materials-web = silk
-materials-bones = bone
-materials-coal = coal
+materials-biomass = биомасса
+materials-cardboard = картон
+materials-cloth = ткань
+materials-durathread = прочная ткань
+materials-plasma = плазма
+materials-plastic = пластик
+materials-wood = дерево
+materials-paper = бумага
+materials-uranium = уран
+materials-bananium = бананиум
+materials-meat = мясо
+materials-web = шелк
+materials-bones = кость
+materials-coal = уголь
 
 # Ores
-materials-raw-iron = raw iron
-materials-raw-quartz = raw quartz
-materials-raw-gold = raw gold
-materials-raw-silver = raw silver
-materials-raw-plasma = raw plasma
-materials-raw-uranium = raw uranium
-materials-raw-bananium = raw bananium
+materials-raw-iron = сырое железо
+materials-raw-quartz = сырой кварц
+materials-raw-gold = сырое золото
+materials-raw-silver = сырое серебро
+materials-raw-plasma = сырая плазма
+materials-raw-uranium = сырой уран
+materials-raw-bananium = сырой бананиум
