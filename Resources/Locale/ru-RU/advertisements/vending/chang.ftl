@@ -1,6 +1,6 @@
-﻿advertisement-chang-1 = Taste 5000 years of culture!
-advertisement-chang-2 = Mr. Chang, approved for safe consumption in over 10 sectors!
-advertisement-chang-3 = Chinese food is great for a date night, or a lonely night!
-advertisement-chang-4 = You can't go wrong with Mr. Chang's authentic Chinese food!
-thankyou-chang-1 = Mr. Chang says thank you!
-thankyou-chang-2 = Enjoy your authentic meal!
+﻿advertisement-chang-1 = Ощутите вкус 5000-летней культуры!
+advertisement-chang-2 = Мистер Чанг, одобрен для безопасного потребления!
+advertisement-chang-3 = Китайская кухня отлично подойдет для свидания со своей половинкой или одинокой ночи!
+advertisement-chang-4 = Вы не ошибетесь с настоящей китайской кухней Мистера Чанга!
+thankyou-chang-1 = Мистер Чанг говорит спасибо вам!
+thankyou-chang-2 = Наслаждайтесь по настоящему вкусной китайской едой!

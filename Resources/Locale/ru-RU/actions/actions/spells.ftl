@@ -1,1 +1,1 @@
-spell-fail-no-hands = У тебя больше нет рук:)
+spell-fail-no-hands = Ваши руки оторвались!
