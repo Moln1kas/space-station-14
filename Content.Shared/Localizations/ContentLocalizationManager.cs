@@ -11,6 +11,7 @@ namespace Content.Shared.Localizations
 
         // If you want to change your codebase's language, do it here.
         private const string Culture = "ru-RU";
+        private const string FallbackCulture = "en-US"; // getting from https://github.com/space-syndicate/space-station-14
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -26,8 +27,11 @@ namespace Content.Shared.Localizations
         public void Initialize()
         {
             var culture = new CultureInfo(Culture);
+            var fallbackCulture = new CultureInfo(FallbackCulture); // getting from https://github.com/space-syndicate/space-station-14
 
             _loc.LoadCulture(culture);
+            _loc.LoadCulture(fallbackCulture); // getting from https://github.com/space-syndicate/space-station-14
+            _loc.SetFallbackCluture(fallbackCulture); // getting from https://github.com/space-syndicate/space-station-14
             _loc.AddFunction(culture, "PRESSURE", FormatPressure);
             _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
             _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
@@ -43,7 +47,7 @@ namespace Content.Shared.Localizations
              * localization you should NOT modify these, instead add new functions specific to your language/culture.
              * This ensures the english translations continue to work as expected when fallbacks are needed.
              */
-            var cultureEn = new CultureInfo("ru-RU");
+            var cultureEn = new CultureInfo("en-US");
 
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);
