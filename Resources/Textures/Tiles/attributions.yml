@@ -3,13 +3,13 @@
 
 - files: ["tech_maint.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "CEV-Eris commit 28e589f0ff72a009adf17db767e90be39054f0f2"
-  source: "https://github.com/discordia-space/CEV-Eris/"
+  copyright: "Created by Moln1kas"
+  source: "https://github.com/Moln1kas/space-station-14"
 
 - files: ["plating.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "Taken from CEV-Eris commit 8e74e4370f4d5885f15c3f834973b1223ddb8b1b, modified by github user @Flareguy"
-  source: "https://github.com/discordia-space/CEV-Eris/"
+  copyright: "Created by Moln1kas"
+  source: "https://github.com/Moln1kas/space-station-14"
 
 - files: ["plating_damaged.png", "plating_burnt.png"]
   license: "CC-BY-SA-3.0"
@@ -53,7 +53,7 @@
 
 - files: [ "bar.png", "lime.png", "blue.png", "kitchen.png", "laundry.png", "mime.png", "steel.png", "steel_dirty.png", "steel_diagonal.png", "steel_mini.png", "steel_offset.png", "steel_pavement.png", "white.png", "white_diagonal.png", "white_mini.png", "white_offset.png", "white_pavement.png", "dark.png", "dark_diagonal.png", "dark_mini.png", "dark_offset.png", "dark_pavement.png", "hydro.png", "plastic.png", "dark_plastic.png", "white_plastic.png", "cafeteria.png", "checker_dark.png", "clown.png" ]
   license: "CC-BY-SA-3.0"
-  copyright: "Created by github user @Flareguy, original, unedited base tiles modified from /tg/station at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae and github user @moonheart08"
+  copyright: "Created by github user @Flareguy and Created by Moln1kas, original, unedited base tiles modified from /tg/station at commit 6665eec76c98a4f3f89bebcd10b34b47dcc0b8ae and github user @moonheart08."
   source: "https://github.com/space-wizards/space-station-14/"
 
 - files: ["arcadeblue.png", "arcadered.png"]
@@ -68,7 +68,7 @@
 
 - files: ["shuttleblue.png", "shuttleorange.png", "shuttlepurple.png", "shuttlered.png", "shuttlewhite.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "paradisestation commit 69c831afcd9aef25a2889b507e4f36a3a5fc6def, originally from /VG/ eris"
+  copyright: "paradisestation commit 69c831afcd9aef25a2889b507e4f36a3a5fc6def, originally from /VG/ eris, a modified Moln1kas"
   source: "https://github.com/ParadiseSS13/Paradise"
 
 - files: ["deprecated.png"]
