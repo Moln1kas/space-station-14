@@ -3,12 +3,12 @@
 
 - files: ["tech_maint.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "Created by Moln1kas"
+  copyright: "Made by Moln1kas in aseprite"
   source: "https://github.com/Moln1kas/space-station-14"
 
 - files: ["plating.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "Created by Moln1kas"
+  copyright: "Made by Moln1kas in aseprite"
   source: "https://github.com/Moln1kas/space-station-14"
 
 - files: ["plating_damaged.png", "plating_burnt.png"]
