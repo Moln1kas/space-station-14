@@ -28,7 +28,7 @@
 
 - files: ["blue_circuit.png", "cropped_parallax.png", "eighties.png", "gold.png", "grass.png", "ironsand1.png", "ironsand2.png", "ironsand3.png", "ironsand4.png", "junglegrass.png", "lattice.png", "reinforced.png", "silver.png", "snow.png", "wood.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "tgstation commit 8abb19545828230d92ba18827feeb42a67a55d49, cropped_parallax modified from parallax."
+  copyright: "tgstation commit 8abb19545828230d92ba18827feeb42a67a55d49 and resprite by Moln1kas in aseprite, cropped_parallax modified from parallax."
   source: "https://github.com/tgstation/tgstation/"
 
 - files: ["super_reinforced.png"]
@@ -93,7 +93,7 @@
   
 - files: ["steel_maint.png", "grating_maint.png", "wood_tile.png"]
   license: "CC-BY-SA-3.0"
-  copyright: "by brainfood for space-station-14, ."
+  copyright: "by brainfood for space-station-14, and resprite by Moln1kas in aseprite."
   source: "https://github.com/space-wizards/space-station-14/pull/12193"
 
 - files: ["meat.png"]
